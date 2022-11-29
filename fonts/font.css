@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'FuturaBookC';
+  src: url('FuturaBookC.eot');
+  src: url('FuturaBookC.eot?#iefix') format('embedded-opentype'),
+       url('FuturaBookC.svg#FuturaBookC') format('svg'),
+       url('FuturaBookC.ttf') format('truetype'),
+       url('FuturaBookC.woff') format('woff'),
+       url('FuturaBookC.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
